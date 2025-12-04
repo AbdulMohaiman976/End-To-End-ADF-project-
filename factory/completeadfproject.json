@@ -1,0 +1,9 @@
+{
+	"name": "completeadfproject",
+	"location": "malaysiawest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c7720c5-7474-4122-817d-c38fd307b479",
+		"tenantId": "221c671e-c145-46ea-9751-f2ee81cbfc68"
+	}
+}
